@@ -1,15 +1,3 @@
-/* Note:
--Overcompensation while balancing
--Slow response from motors/ Slow reading from sensors
-
--Switch included: 23/09/2015,
---Use indexMotorSw, with alternate flow and switch
-
--Snip code
-
--Tune Comp filter in sensor input
-*/
-
 //3-axis
 global.XAXIS = 0;
 global.YAXIS = 1;
